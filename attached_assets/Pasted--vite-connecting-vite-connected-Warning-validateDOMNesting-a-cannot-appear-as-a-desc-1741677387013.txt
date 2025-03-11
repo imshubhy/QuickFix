@@ -1,0 +1,45 @@
+[vite] connecting...
+[vite] connected.
+Warning: validateDOMNesting(...): <a> cannot appear as a descendant of &lt;a&gt;.
+    at a
+    at a
+    at https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5b0e1b07:337:18
+    at p
+    at div
+    at form
+    at FormProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-YABUFNLM.js?v=5b0e1b07:102:11)
+    at div
+    at div
+    at main
+    at div
+    at Login (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/src/pages/auth/login.tsx:45:37)
+    at Route (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5b0e1b07:323:16)
+    at Switch (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5b0e1b07:379:17)
+    at Router
+    at BookingProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/src/context/booking-context.tsx:20:35)
+    at AuthProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/src/context/auth-context.tsx:22:32)
+    at QueryClientProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=5b0e1b07:2805:3)
+    at App
+at a
+at a
+at https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5b0e1b07:337:18
+at p
+at div
+at form
+at FormProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-YABUFNLM.js?v=5b0e1b07:102:11)
+at div
+at div
+at main
+at div
+at Login (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/src/pages/auth/login.tsx:45:37)
+at Route (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5b0e1b07:323:16)
+at Switch (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5b0e1b07:379:17)
+at Router
+at BookingProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/src/context/booking-context.tsx:20:35)
+at AuthProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/src/context/auth-context.tsx:22:32)
+at QueryClientProvider (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=5b0e1b07:2805:3)
+at App
+at t.value (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://5c6c9b40-d868-41c8-8976-387636e580dd-00-2ta73w6fuyyki.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
